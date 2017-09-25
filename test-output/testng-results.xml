@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[SignIn Action is successfully perfomred]]>
+    </line>
+  </reporter-output>
+  <suite name="Amazon Web cart test Suite" duration-ms="20029" started-at="2017-09-22T09:51:16Z" finished-at="2017-09-22T09:51:36Z">
+    <groups>
+    </groups>
+    <test name="Hybrid Test Approach" duration-ms="20029" started-at="2017-09-22T09:51:16Z" finished-at="2017-09-22T09:51:36Z">
+      <class name="testcases.testcase1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.testcase1@4edc67]" name="beforeTest" is-config="true" duration-ms="11435" started-at="2017-09-22T15:21:16Z" finished-at="2017-09-22T15:21:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="main()[pri:0, instance:testcases.testcase1@4edc67]" name="main" duration-ms="6262" started-at="2017-09-22T15:21:27Z" finished-at="2017-09-22T15:21:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[SignIn Action is successfully perfomred]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.testcase1@4edc67]" name="afterTest" is-config="true" duration-ms="2315" started-at="2017-09-22T15:21:33Z" finished-at="2017-09-22T15:21:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testcases.testcase1 -->
+    </test> <!-- Hybrid Test Approach -->
+  </suite> <!-- Amazon Web cart test Suite -->
+</testng-results>

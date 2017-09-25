@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Amazon Web cart test Suite" parallel="none">
+ <listeners>
+<listener class-name="utility.Lstnrs"/>
+</listeners>
+  	<test name="Hybrid Test Approach">
+		<classes>
+		<class name="testcases.testcase1" />				  
+		</classes>
+  	</test> 
+</suite>
